@@ -5,7 +5,7 @@ A complete community driven remaster of the Left 4 Dead series
 
 # Game Engine
 
-To begin, we must all vote to choose what engine we would like to begin our development with.  Options include Unreal Engine, Unity, and Cryengine.  Some other engines to consider that are in development are Lumix Engine, Flax Engine, and Godot.  Select an option below.
+To begin, we must all vote to choose what engine we would like to begin our development with.  Options include Unreal Engine, Unity, and Cryengine.  Some other engines to consider that are in development are Lumix Engine, Flax Engine, and Godot.  Select an option below.  If you have any better options in mind, please contact me and I will add it to the list.
 
 [![](https://api.gh-polls.com/poll/01D3P3N206SV0MX4GWAHGDANHE/Unreal%20Engine)](https://api.gh-polls.com/poll/01D3P3N206SV0MX4GWAHGDANHE/Unreal%20Engine/vote)
 [![](https://api.gh-polls.com/poll/01D3P3N206SV0MX4GWAHGDANHE/Unity)](https://api.gh-polls.com/poll/01D3P3N206SV0MX4GWAHGDANHE/Unity/vote)
